@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\.android\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_fedaf39c54494b70e88723c01a464a970b505f12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_588e10017d296a48fde3aa0b3b5f2229dc39006b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_85d9f3962eeed2de54edded35a184a5a74782921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="302e027dd3de7d500b60e6615d3a4780ccf0c751">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d11660b4cc464b1cc76be6496601c308c156b417\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-21.0.3_8186252e03fbdad67e84e251c6255658e7a500d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4eb2bbd400d7e64aaeb2ff8cac68d1c755a63ada">
+        <dex dex="C:\Users\Admin\Documents\reiner_ccid_via_dk_sample\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_5548f8fa1d95d1e4ee1c90c84c718de31c3459cf\classes.dex" />
+    </item>
+
+</items>

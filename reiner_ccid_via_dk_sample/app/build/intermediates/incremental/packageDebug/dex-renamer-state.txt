@@ -1,0 +1,7 @@
+#Wed Mar 01 09:42:38 CET 2017
+base.0=C\:\\Users\\Admin\\Documents\\reiner_ccid_via_dk_sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d11660b4cc464b1cc76be6496601c308c156b417
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Admin\\Documents\\reiner_ccid_via_dk_sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5548f8fa1d95d1e4ee1c90c84c718de31c3459cf\\classes.dex
+base.1=C\:\\Users\\Admin\\Documents\\reiner_ccid_via_dk_sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_5548f8fa1d95d1e4ee1c90c84c718de31c3459cf
+file.0=C\:\\Users\\Admin\\Documents\\reiner_ccid_via_dk_sample\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_d11660b4cc464b1cc76be6496601c308c156b417\\classes.dex
